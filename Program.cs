@@ -16,4 +16,6 @@ if (a + b == 10)
 else
 {
     Console.WriteLine("not Math");
+    a = 8;
 }
+
