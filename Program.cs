@@ -6,21 +6,25 @@ if (true)
 {
     Console.WriteLine("Test");
 }
-int a,b;
+bool check = true;
+int a, b;
 a = 2;
 b = 3;
-for (int i = 0; i < 12; i++) {
+while (check)
+{
     if (a + b == 10)
     {
-        Console.WriteLine("Math");
+        Console.WriteLine(a+b);
         a = 2;
-        b = 3;
+        b = 4;
+        check = false;
     }
     else
     {
-        Console.WriteLine("not Math");
+        Console.WriteLine(a+b);
         a += 1;
         b += 1;
+        check = true;
     }
 }
 
