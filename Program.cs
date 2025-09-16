@@ -14,14 +14,14 @@ while (check)
 {
     if (a + b == 10)
     {
-        Console.WriteLine(a+b);
+        Console.WriteLine(a + b);
         a = 2;
         b = 4;
         check = false;
     }
     else
     {
-        Console.WriteLine(a+b);
+        Console.WriteLine(a + b);
         a += 1;
         b += 1;
         check = true;
@@ -35,3 +35,16 @@ if (true) { Console.WriteLine("sehr cool"); }
 
 if (true) { Console.WriteLine("supermegaknightcool"); }
 if (true) { Console.WriteLine("supermegaknightcool"); }
+
+
+if (true) { Console.WriteLine("Please do the right thing"); }
+if (true) { Console.WriteLine("I am so fing done with this"); }
+if (true) { Console.WriteLine("PLLLLLLLLLLLLLLLLLEEEEEEEEEEEEEEEEAAAAAAAAAAAAASSSSSSSSSSSSEEEEEEEEE"); }
+if (true) { Console.WriteLine("Please do the right thing"); }
+if (true) { Console.WriteLine("I am so fing done with this"); }
+if (true) { Console.WriteLine("PLLLLLLLLLLLLLLLLLEEEEEEEEEEEEEEEEAAAAAAAAAAAAASSSSSSSSSSSSEEEEEEEEE"); }
+if (true) { Console.WriteLine("Please do the right thing"); }
+if (true) { Console.WriteLine("I am so fing done with this"); }
+if (true) { Console.WriteLine("PLLLLLLLLLLLLLLLLLEEEEEEEEEEEEEEEEAAAAAAAAAAAAASSSSSSSSSSSSEEEEEEEEE"); }
+
+
