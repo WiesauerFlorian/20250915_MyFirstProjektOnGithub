@@ -30,3 +30,5 @@ while (check)
 
 
 if (true) { Console.WriteLine("cool"); }
+
+if (true) { Console.WriteLine("sehr cool"); }
