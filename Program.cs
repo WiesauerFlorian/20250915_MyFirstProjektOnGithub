@@ -28,3 +28,5 @@ while (check)
     }
 }
 
+
+if (true) { Console.WriteLine("cool"); }
